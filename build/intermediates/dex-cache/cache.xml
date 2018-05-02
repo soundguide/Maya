@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\games\Maya\android\libs\StartAppInApp-3.6.6.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0383efaf75fec8965cc3565f4ea92b042015aea6">
+        <dex dex="C:\games\Maya\android\build\intermediates\pre-dexed\release\StartAppInApp-3.6.6_abe953c887fb66c0f5b0cceb6ff3a469d06ea6d9.jar" />
+    </item>
+    <item
+        jar="C:\games\Maya\core\build\libs\core-1.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e6fc1c97b2485369f537f58ea10d7a202b44ebe1">
+        <dex dex="C:\games\Maya\android\build\intermediates\pre-dexed\release\core-1.1_b1f79f3dbcb4d6ea7a23e7fb74a97d7c78a0a5f9.jar" />
+    </item>
+
+</items>
